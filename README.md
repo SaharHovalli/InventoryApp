@@ -1,3 +1,7 @@
+# InventoryApp
+
+Product Inventory Management/ JS
+
 This is a simple inventory management system designed to manage product stock, including adding, removing, and tracking inventory levels.
 
 ## Features
